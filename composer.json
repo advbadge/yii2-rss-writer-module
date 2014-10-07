@@ -1,5 +1,5 @@
 {
-	"name": "himiklab/yii2-rss-writer-module",
+	"name": "advbadge/yii2-rss-writer-module",
 	"description": "Yii2 module for automatically generation RSS 2.0 feeds",
 	"keywords": ["yii2", "rss", "writer", "module"],
 	"type": "yii2-extension",
@@ -19,7 +19,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-            "himiklab\\rss\\": ""
+            "advbadge\\rss\\": ""
         }
 	}
 }
